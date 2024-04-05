@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "etl-data-project-starter"
+version = "1.0"
+description = "ETL - Data Project Starter"
+authors = ["Aline Silveira <aline@outlook.ie>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
